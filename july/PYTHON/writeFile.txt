@@ -1,3 +1,0 @@
-shehazac to write something in a file
-new line can be added using append mode
-new line can be added using append mode
